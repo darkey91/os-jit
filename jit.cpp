@@ -174,6 +174,8 @@ int main() {
         }
     }
 
+    clean(mem, size);
+
     return 0;
 }
 	 
